@@ -1,0 +1,15 @@
+C:\Users\emust\Documents\ElvinP416\ConsoleAppC#Lessons\ConsoleAppC#Lessons\bin\Debug\net6.0\ConsoleAppC#Lessons.exe
+C:\Users\emust\Documents\ElvinP416\ConsoleAppC#Lessons\ConsoleAppC#Lessons\bin\Debug\net6.0\ConsoleAppC#Lessons.deps.json
+C:\Users\emust\Documents\ElvinP416\ConsoleAppC#Lessons\ConsoleAppC#Lessons\bin\Debug\net6.0\ConsoleAppC#Lessons.runtimeconfig.json
+C:\Users\emust\Documents\ElvinP416\ConsoleAppC#Lessons\ConsoleAppC#Lessons\bin\Debug\net6.0\ConsoleAppC#Lessons.dll
+C:\Users\emust\Documents\ElvinP416\ConsoleAppC#Lessons\ConsoleAppC#Lessons\bin\Debug\net6.0\ConsoleAppC#Lessons.pdb
+C:\Users\emust\Documents\ElvinP416\ConsoleAppC#Lessons\ConsoleAppC#Lessons\obj\Debug\net6.0\ConsoleAppC#Lessons.csproj.AssemblyReference.cache
+C:\Users\emust\Documents\ElvinP416\ConsoleAppC#Lessons\ConsoleAppC#Lessons\obj\Debug\net6.0\ConsoleAppC#Lessons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emust\Documents\ElvinP416\ConsoleAppC#Lessons\ConsoleAppC#Lessons\obj\Debug\net6.0\ConsoleAppC#Lessons.AssemblyInfoInputs.cache
+C:\Users\emust\Documents\ElvinP416\ConsoleAppC#Lessons\ConsoleAppC#Lessons\obj\Debug\net6.0\ConsoleAppC#Lessons.AssemblyInfo.cs
+C:\Users\emust\Documents\ElvinP416\ConsoleAppC#Lessons\ConsoleAppC#Lessons\obj\Debug\net6.0\ConsoleAppC#Lessons.csproj.CoreCompileInputs.cache
+C:\Users\emust\Documents\ElvinP416\ConsoleAppC#Lessons\ConsoleAppC#Lessons\obj\Debug\net6.0\ConsoleAppC#Lessons.dll
+C:\Users\emust\Documents\ElvinP416\ConsoleAppC#Lessons\ConsoleAppC#Lessons\obj\Debug\net6.0\refint\ConsoleAppC#Lessons.dll
+C:\Users\emust\Documents\ElvinP416\ConsoleAppC#Lessons\ConsoleAppC#Lessons\obj\Debug\net6.0\ConsoleAppC#Lessons.pdb
+C:\Users\emust\Documents\ElvinP416\ConsoleAppC#Lessons\ConsoleAppC#Lessons\obj\Debug\net6.0\ConsoleAppC#Lessons.genruntimeconfig.cache
+C:\Users\emust\Documents\ElvinP416\ConsoleAppC#Lessons\ConsoleAppC#Lessons\obj\Debug\net6.0\ref\ConsoleAppC#Lessons.dll
